@@ -1,6 +1,10 @@
 # iOS-app
 My first iOS app built for CodePath's iOS prep Prework
 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,apple,swift" />
+</p>
+
 ### Here are my top app favourites with standout features:
 
 *1. Bumble*
